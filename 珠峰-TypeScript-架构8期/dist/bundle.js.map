@@ -1,1 +1,1 @@
-{"version":3,"file":"bundle.js","sources":[],"sourcesContent":[],"names":[],"mappings":";;;;;;;"}
+{"version":3,"file":"bundle.js","sources":["../src/spyTEST.ts"],"sourcesContent":["enum SPY_USER_ROLE {\n  USER = \"abc\",\n  ADMIN = 6, // 否则TS不知道如何推断\n  MANAGER,\n}\n"],"names":[],"mappings":";;;EAAA,IAAK,aAIJ;EAJD,WAAK,aAAa;MAChB,6BAAY,CAAA;MACZ,mDAAS,CAAA;MACT,uDAAO,CAAA;EACT,CAAC,EAJI,aAAa,KAAb,aAAa;;;;;;"}
